@@ -1,0 +1,38 @@
+id: P5C3748E6
+initial_creation_type: input
+source_metadata:
+  title: Retreat and Solitude Series
+  language: zh
+  description: 'Lotsawa House presents the following texts related to retreat (mtshams)
+    and solitude (dben pa):'
+  volume:
+    443b118a9831475a8940855b8dc69dc7:
+      title: Advice to Three-Year Retreatants
+      parent: Advice
+    646da06f44eb48939c220fe8da27ee81:
+      title: Retreat Advice
+      parent: Advice
+    01696714ee6d4ee695c129f152e18fcf:
+      title: 'From ''Finding Comfort and Ease in Meditation'': A Guide to Locations
+        for Cultivating Samadhi'
+      parent: Advice
+    32db5792300a495e824ff1b18d7778b1:
+      title: Advice for Alak Dongak
+      parent: Advice
+    5729f7d2069e4ac69d9063a43f309d45:
+      title: Yearning for Mountain Solitude
+      parent: Advice
+    75aa0c56f117426fa7f5cf7970de8736:
+      title: Advice for Retreat
+      parent: Advice
+    b1f31d0f2ed341668de93f2bf3389796:
+      title: From the Oral Tradition of the Lama of Nyarong
+      parent: Advice
+    d56883a1db674c4da5fc0cd7f1872f0c:
+      title: Song of the Enchanting Wildwoods
+      parent: Songs
+    a59351bced114402a1ab1bc3dbc92eba:
+      title: The Heaven of Solitude
+      parent: Songs
+created_at: '2022-03-01T05:26:05.863829'
+last_modified_at: '2022-03-01T05:26:05.863832'
